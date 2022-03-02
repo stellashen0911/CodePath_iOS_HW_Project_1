@@ -40,7 +40,7 @@ It really long but rewarding software development process for building this Flix
 
 ### App Walkthrough GIF
 
-<img src="https://i.imgur.com/05pZbhc.gif" width=250><br>
+<img src="https://i.imgur.com/IhhhcDb.gif" width=250><br>
 
 ### Notes
 The challenge for building the collection view controller is adding the navigation bar to the original version of the APP.
